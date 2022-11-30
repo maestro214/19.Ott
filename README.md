@@ -1,4 +1,4 @@
-# aop-part4-chapter04 - OTT 앱 인트로 따라하기
+# a앱 인트로 따라하기
 
 ## 목차
 1. ScrollView에 모션 레이아웃 구현하기 1차
